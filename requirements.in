@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+duckdb
+motherduck
+psycopg2 
+dbt-core
+dbt-postgres
