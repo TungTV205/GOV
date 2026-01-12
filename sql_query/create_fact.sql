@@ -303,3 +303,20 @@ CREATE TABLE IF NOT EXISTS stats.fact_job_status_year (
     CONSTRAINT uq_fact_job_status_year
         UNIQUE (time_id, job_status_id)
 );
+
+-- 1. Bổ sung cho bảng Tỉnh/Thành (fact_province_year)
+ALTER TABLE stats.fact_province_year
+ADD COLUMN IF NOT EXISTS newly_registered_enterprises integer, -- Số DN đăng ký mới
+ADD COLUMN IF NOT EXISTS social_insurance_rate numeric,        -- Tỷ lệ tham gia BHXH
+ADD COLUMN IF NOT EXISTS unemployment_insurance_rate numeric;  -- Tỷ lệ tham gia BHTN
+
+-- 2. Bổ sung cho bảng Ngành kinh tế (fact_industry_year)
+ALTER TABLE stats.fact_industry_year
+ADD COLUMN IF NOT EXISTS avg_income numeric;            -- Thu nhập bình quân
+
+ALTER TABLE stats.fact_economic_sector_year
+ADD COLUMN IF NOT EXISTS newly_registered_enterprises integer;
+
+-- 3. Bổ sung cho bảng Trình độ học vấn (fact_education_year)
+ALTER TABLE stats.fact_education_year
+ADD COLUMN IF NOT EXISTS avg_income numeric;                   -- Thu nhập bình quân

@@ -1,13 +1,13 @@
-﻿Tỷ lệ lao động đã qua đào tạo,Loại khu vực,Năm
-"41,30",Thành thị,2019
-"41,97",Thành thị,2020
-"43,23",Thành thị,2021
-"43,43",Thành thị,2022
-"44,23",Thành thị,2023
-"44,92",Thành thị,2024
-"16,30",Nông thôn,2019
-"17,83",Nông thôn,2020
-"19,38",Nông thôn,2021
-"19,50",Nông thôn,2022
-"20,33",Nông thôn,2023
-"21,85",Nông thôn,2024
+﻿Năm,Loại khu vực,Tỷ lệ lao động đã qua đào tạo
+2019,Thành thị,"41,30"
+2019,Nông thôn,"16,30"
+2020,Thành thị,"41,97"
+2020,Nông thôn,"17,83"
+2021,Thành thị,"43,23"
+2021,Nông thôn,"19,38"
+2022,Thành thị,"43,43"
+2022,Nông thôn,"19,50"
+2023,Thành thị,"44,23"
+2023,Nông thôn,"20,33"
+2024,Thành thị,"44,92"
+2024,Nông thôn,"21,85"

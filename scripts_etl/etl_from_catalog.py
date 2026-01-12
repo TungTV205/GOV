@@ -75,6 +75,9 @@ FACT_META = {
             "crude_birth_rate",
             "crude_death_rate",
             "natural_increase_rate",
+            "newly_registered_enterprises",
+            "social_insurance_rate",
+            "unemployment_insurance_rate",
         ],
     },
     "fact_province_gender_year": {
@@ -137,6 +140,7 @@ FACT_META = {
         "measures": [
             "informal_employment_rate",
             "underemployment_rate",
+            "newly_registered_enterprises",
         ],
     },
     "fact_economic_type_year": {
@@ -152,6 +156,7 @@ FACT_META = {
             "labor_productivity",
             "employed",
             "trained_labor_rate",
+            "avg_income",
         ],
     },
     "fact_occupation_year": {
@@ -178,6 +183,7 @@ FACT_META = {
             "trained_labor_rate",
             "informal_employment_rate",
             "underemployment_rate",
+            "avg_income",
         ],
     },
     "fact_job_status_year": {

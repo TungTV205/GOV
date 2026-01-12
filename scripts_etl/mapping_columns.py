@@ -27,6 +27,7 @@ COLUMN_MAPPING = {
     'Ngành kinh tế': 'industry_name_vi',
     'Ngành nghề': 'occupation_name_vi',
     'Vị thế việc làm': 'job_status_name_vi',
+    
 
     # ===== MEASURES – đúng theo comment trong các bảng FACT =====
     'Dân số': 'population',
@@ -61,6 +62,13 @@ COLUMN_MAPPING = {
     'Tỷ suất chết thô': 'crude_death_rate',
     'Tỷ lệ tăng tự nhiên': 'natural_increase_rate',
     'Tổng tỷ suất sinh': 'tfr',
+    # Nhóm Doanh nghiệp & Thu nhập
+    "Số lượng doanh nghiệp thành lập mới": "newly_registered_enterprises",
+    "Thu nhập bình quân": "avg_income",
+    
+    # Nhóm Bảo hiểm
+    "Tỷ lệ tham gia BHXH": "social_insurance_rate",
+    "Tỷ lệ tham gia BHTN": "unemployment_insurance_rate"
 }
 
 
