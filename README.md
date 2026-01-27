@@ -70,8 +70,7 @@ Phân tích cho thấy Việt Nam vẫn duy trì lợi thế về **quy mô dân
 
 Phân tích cơ cấu lực lượng lao động cho thấy nhóm tuổi 25–49 hiện vẫn là lực lượng nòng cốt, nhưng **chỉ số già hóa và tỷ số thay thế tăng nhanh**, phản ánh sự mất cân đối thế hệ ngày càng rõ rệt. Điều này cho thấy cửa sổ dân số vàng vẫn mở, nhưng đang khép lại nhanh chóng.
 
-**[<img width="1423" height="799" alt="image" src="https://github.com/user-attachments/assets/babdc4bf-4888-4306-9f6a-c6ac2993fe53" />
-]**:
+**<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/4f4bc60a-802c-4f46-9a45-6f9eabc71340" />**
 
 * KPI tổng dân số, TFR.
 * Biểu đồ kết hợp Cột/Đường về dân số và tăng tự nhiên.
@@ -83,8 +82,7 @@ Mặc dù tỷ lệ thất nghiệp của Việt Nam ở mức thấp, phân tí
 
 Cấu trúc nghề nghiệp cho thấy lao động giản đơn vẫn chiếm ưu thế áp đảo, trong khi lao động kỹ năng cao tăng chậm. Phân tích mối quan hệ giữa đào tạo và thu nhập khẳng định đào tạo là yếu tố then chốt giúp nâng cao thu nhập và giảm rủi ro phi chính thức, song phần lớn lao động vẫn bị mắc kẹt trong khu vực đào tạo thấp – thu nhập thấp.
 
-**[<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/58a70f2d-2261-4bf6-8e26-db79545b27d6" />
-]**:
+**<img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/9086ef0a-7834-4598-b3e7-2674e74bf8c4" />**
 
 * KPI thất nghiệp, qua đào tạo, phi chính thức.
 * Biểu đồ cơ cấu nghề và kỹ năng.
@@ -96,8 +94,7 @@ Các chỉ số tổng quan cho thấy thị trường lao động Việt Nam c�
 
 Quá trình chuyển dịch lao động từ nông nghiệp sang công nghiệp và dịch vụ diễn ra đúng hướng nhưng chậm. Đáng chú ý, khu vực lao động tự làm và lao động gia đình vẫn chiếm tỷ trọng lớn, tạo ra khoảng trống an sinh đáng kể. Điều này làm tăng mức độ dễ tổn thương của thị trường lao động trước các cú sốc trong tương lai.
 
-**[<img width="1424" height="802" alt="image" src="https://github.com/user-attachments/assets/986114df-02f2-4d47-850c-58f9261fb1d5" />
-]**:
+**<img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/129de573-77f5-410f-be52-44380e1ed72a" />**
 
 * Biểu đồ tăng trưởng LLLĐ và thất nghiệp.
 * Biểu đồ chuyển dịch cơ cấu ngành.
@@ -109,11 +106,18 @@ Phân tích cho thấy đô thị hóa là xu hướng tất yếu, song dòng d
 
 Nguyên nhân cốt lõi của dòng di cư này là **chênh lệch năng suất lao động và thu nhập** giữa các vùng. Chênh lệch năng suất gấp nhiều lần tạo ra lực đẩy kinh tế khiến lao động rời bỏ khu vực nông nghiệp năng suất thấp để tìm đến các trung tâm công nghiệp, kéo theo áp lực hạ tầng tại đô thị và suy giảm nguồn lực tại các vùng xuất cư.
 
-**[Hình nên chèn]**:
+**<img width="1421" height="800" alt="image" src="https://github.com/user-attachments/assets/307ed9ee-6472-441e-99f5-e8817b302080" />**
 
 * Biểu đồ tỷ suất nhập cư – xuất cư.
 * Biểu đồ năng suất lao động theo tỉnh.
 * Bản đồ phân bố dân số và di cư.
+
+### 5.5. Bảng tra cứu khu vực (Dashboard 5)
+
+* Tra cứu nhanh chỉ số theo tỉnh/thành, vùng miền và năm.
+* So sánh đa chỉ tiêu giữa các địa phương trong cùng một màn hình.
+* Hỗ trợ drill-down từ tổng thể quốc gia xuống cấp vùng và tỉnh.
+**<img width="1423" height="810" alt="image" src="https://github.com/user-attachments/assets/5314e7ad-a2fe-4a85-be96-21be0c9be8db" />**
 
 ---
 
