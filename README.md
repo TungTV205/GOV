@@ -50,7 +50,7 @@ Dữ liệu nguồn mang đặc trưng của **thống kê chính thức**:
 ---
 
 ## 4. PHƯƠNG PHÁP & KIẾN TRÚC HỆ THỐNG  
-### 4.1. Metadata-driven ETL (Trọng tâm của dự án)
+### 4.1. Metadata-driven ETL
 
 Trọng tâm kỹ thuật của dự án là cách tiếp cận **metadata-driven ETL**, trong đó metadata không chỉ dùng để mô tả dữ liệu mà đóng vai trò **điều phối toàn bộ pipeline xử lý**.
 
